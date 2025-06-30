@@ -42,7 +42,7 @@ object-detection-ai/
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/object-detection-ai.git
+git clone https://github.com/Ahmadjamil888/REALTIME-OBJ-DETECTION-SURVIELLENCE.git
 cd object-detection-ai
 ```
 
